@@ -14,7 +14,7 @@ Buscando unir conhecimentos médicos aos de Data Science e assim contribuir com 
 **Links:**
 * [Instagram](https://www.instagram.com/gustavo.flausino/)
 * [LinkedIn](https://www.linkedin.com/in/gustavoflausino/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@gustavoflausino)
 
 
 ## PROJETOS:
